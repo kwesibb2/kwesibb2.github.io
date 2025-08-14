@@ -2,6 +2,59 @@
 layout: default
 title: Kwesi Boahene:
 ---
+<style>
+/* Global typography */
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  color: #e0e0e0;
+  background-color: #121212;
+  padding: 2rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* Accent links */
+a {
+  color: #4f9cf9;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #f39c12;
+  text-decoration: underline;
+}
+
+/* Project card styling */
+.project-card {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.project-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Sections */
+section {
+  margin-bottom: 2rem;
+}
+
+/* Icons (optional) */
+.icon {
+  vertical-align: middle;
+  margin-right: 0.3rem;
+}
+</style>
+
 # Kwesi Boahene
 
 **Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast**  
