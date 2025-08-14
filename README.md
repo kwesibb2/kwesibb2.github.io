@@ -19,7 +19,7 @@ I specialize in building data-driven solutions, predictive models, and intellige
 
 ## 📂 Projects
 
-### [📊 Walmart Sales Forecasting](https://github.com/kwesibb2/Walmart-Sales))
+### [📊 Walmart Sales Forecasting](https://github.com/kwesibb2/Walmart-Sales)
 State-level sales prediction with ARMA and Lasso models, RMSE evaluation, and insights for inventory and workforce optimization.  
 *Tech stack:* R, RMarkdown, glmnet, plotly, HTML 
 
