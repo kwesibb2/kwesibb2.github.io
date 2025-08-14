@@ -19,9 +19,9 @@ I specialize in building data-driven solutions, predictive models, and intellige
 
 ## 📂 Projects
 
-### [📊 Financial Time Series Forecasting](https://github.com/yourusername/project-link)
-Predictive modeling for stock index volatility using ARCH/GARCH models.  
-*Tech stack:* Python, Pandas, Statsmodels, Matplotlib
+### [📊 Walmart Sales Forecasting](https://github.com/kwesibb2/Walmart-Sales))
+State-level sales prediction with ARMA and Lasso models, RMSE evaluation, and insights for inventory and workforce optimization.  
+*Tech stack:* R, RMarkdown, glmnet, plotly, HTML 
 
 ### [🤖 Machine Learning Trading Bot](https://github.com/yourusername/project-link)
 An automated options trading bot with backtesting and risk management.  
