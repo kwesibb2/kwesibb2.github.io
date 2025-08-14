@@ -18,7 +18,7 @@ a {
   transition: color 0.2s;
 }
 a:hover {
-  color: #f39c12;
+  color: #DA70D6;
   text-decoration: underline;
 }
 
