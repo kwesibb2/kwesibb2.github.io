@@ -8,7 +8,7 @@ title: Kwesi Boahene:
 /* Headings */
 h1, h2, h3 {
   font-weight: 700;
-  color: #000000;
+  color: #DC143C;
 }
 
 /* Accent links */
@@ -52,9 +52,9 @@ a:hover {
 }
 
 </style>
-  
-Hi! I'm Kwesi, a recent UIUC graduate in Econometrics & Quantitative Economics with minors in Computer Science and Statistics.  
-Interested in applying data-driven insights to **finance, operations, retail, sports analytics, and AI/ML applications**.
+
+## Introduction
+Hi! I'm Kwesi, a recent UIUC graduate in Econometrics & Quantitative Economics with minors in Computer Science and Statistics. I'm passionate about applying data-driven solutions to finance, operations, retail, sports analytics, and AI/ML applications. I enjoy exploring datasets, uncovering patterns, and building predictive models to turn insights into actionable strategies. Feel free to check out my projects or reach out to connect.
 
 ---
 
