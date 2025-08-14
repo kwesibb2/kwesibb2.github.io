@@ -8,7 +8,7 @@ title: Kwesi Boahene:
 /* Headings */
 h1, h2, h3 {
   font-weight: 700;
-  color: #DC143C;
+  color: #007BFF;
 }
 
 /* Accent links */
