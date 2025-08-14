@@ -6,9 +6,13 @@ title: Kwesi Boahene:
 /* Global typography */
 
 /* Headings */
-h1, h2, h3 {
+h1, h2 {
   font-weight: 700;
   color: #007BFF;
+}
+h3 {
+  font-weight: 700;
+  color: #333333;
 }
 
 /* Accent links */
