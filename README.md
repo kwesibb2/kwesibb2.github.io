@@ -1,23 +1,32 @@
 # Kwesi Boahene
 
-**Data Scientist | Machine Learning Engineer | Quantitative Analyst**
-
-Hi! I'm Kwesi, a data scientist with a background in econometrics, computer science, and statistics.  
-I specialize in building data-driven solutions, predictive models, and intelligent systems for finance, analytics, and AI applications.
-
----
-
-## 🚀 Skills
-
-- **Languages:** Python, R, SQL, C++  
-- **Data Science & ML:** Scikit-learn, Pandas, NumPy, Time Series Analysis, Econometrics, Forecasting Models  
-- **Visualization:** Tableau, Matplotlib, Power BI  
-- **Cloud & Tools:** AWS, GCP, Git, Docker  
-- **Other:** Statistical Modeling, Quantitative Finance, Data Engineering
+**Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast**  
+Econometrics & Quantitative Economics graduate from UIUC with minors in Computer Science and Statistics.  
+Interested in applying data-driven insights to **finance, operations, retail, sports analytics, and AI/ML applications**.
 
 ---
 
-## 📂 Projects
+
+## Interests
+- Predictive modeling and forecasting for finance and retail
+- Optimization and analytics in operations and supply chain
+- Sports performance and game outcome analytics
+- Machine learning applications, AI pipelines, and data-driven decision-making
+
+---
+
+## Skills
+
+- Programming & Data Tools: Python, R, SQL, C++, Excel, Tableau, Power BI  
+- Data Science & ML: Time Series Analysis, Forecasting Models, Econometrics, Lasso Regression, Statistical Modeling  
+- Visualization: Matplotlib, ggplot2, Plotly, Tableau, Power BI  
+- Cloud & Collaboration: Git, Docker, AWS, GCP  
+- Other: Data Wrangling, EDA, Model Evaluation (RMSE, Cross-validation), Experimental Design  
+
+
+---
+
+## Projects
 
 ### [📊 Walmart Sales Forecasting](https://github.com/kwesibb2/Walmart-Sales)
 State-level sales prediction with ARMA and Lasso models, RMSE evaluation, and insights for inventory and workforce optimization.  
@@ -35,8 +44,7 @@ Interactive business intelligence dashboard for tracking KPIs.
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** pkwesi4@gmail.com 
+
 
 ---
