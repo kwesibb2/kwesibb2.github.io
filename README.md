@@ -1,1 +1,42 @@
-# kwesibb2.github.io
+# Kwesi Boahene
+
+**Data Scientist | Machine Learning Engineer | Quantitative Analyst**
+
+Hi! I'm Kwesi, a data scientist with a background in econometrics, computer science, and statistics.  
+I specialize in building data-driven solutions, predictive models, and intelligent systems for finance, analytics, and AI applications.
+
+---
+
+## 🚀 Skills
+
+- **Languages:** Python, R, SQL, C++  
+- **Data Science & ML:** Scikit-learn, Pandas, NumPy, Time Series Analysis, Econometrics, Forecasting Models  
+- **Visualization:** Tableau, Matplotlib, Power BI  
+- **Cloud & Tools:** AWS, GCP, Git, Docker  
+- **Other:** Statistical Modeling, Quantitative Finance, Data Engineering
+
+---
+
+## 📂 Projects
+
+### [📊 Financial Time Series Forecasting](https://github.com/yourusername/project-link)
+Predictive modeling for stock index volatility using ARCH/GARCH models.  
+*Tech stack:* Python, Pandas, Statsmodels, Matplotlib
+
+### [🤖 Machine Learning Trading Bot](https://github.com/yourusername/project-link)
+An automated options trading bot with backtesting and risk management.  
+*Tech stack:* Python, QuantConnect API, Scikit-learn
+
+### [📈 Sales Dashboard](https://github.com/yourusername/project-link)
+Interactive business intelligence dashboard for tracking KPIs.  
+*Tech stack:* Tableau, SQL, Excel
+
+---
+
+## 📫 Contact
+
+- **Email:** your.email@example.com  
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
