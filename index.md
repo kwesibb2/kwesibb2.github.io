@@ -1,3 +1,7 @@
+---
+layout: default
+title: Kwesi Boahene:
+---
 # Kwesi Boahene
 
 **Data Scientist | Machine Learning Engineer | Quantitative Analyst**
