@@ -8,7 +8,7 @@ title: Kwesi Boahene:
 /* Headings */
 h1, h2, h3 {
   font-weight: 700;
-  color: #ffffff;
+  color: #000000;
 }
 
 /* Accent links */
@@ -36,12 +36,24 @@ a:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
+/* Skills section */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.skill-category {
+  background: rgba(30, 41, 59, 0.5);
+  padding: 1rem;
+  border-radius: 8px;
+  border-left: 3px solid #60a5fa;
+}
+
 </style>
-
-# Kwesi Boahene
-
-**Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast**  
-Econometrics & Quantitative Economics graduate from UIUC with minors in Computer Science and Statistics.  
+  
+Hi! I'm Kwesi, a recent UIUC graduate in Econometrics & Quantitative Economics with minors in Computer Science and Statistics.  
 Interested in applying data-driven insights to **finance, operations, retail, sports analytics, and AI/ML applications**.
 
 ---
