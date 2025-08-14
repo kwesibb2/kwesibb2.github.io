@@ -2,20 +2,8 @@
 layout: default
 title: Kwesi Boahene:
 ---
-Can you create a modern sleek dark themed looking edit of the jerkyll slate theme, for my github page. This is what I have so far it's absolutely terrible, and also it's an md file:
----
-layout: default
-title: Kwesi Boahene:
----
 <style>
 /* Global typography */
-body {
-  font-family: 'Inter', sans-serif;
-  line-height: 1.6;
-  color: #e0e0e0;
-  background-color: #121212;
-  padding: 2rem;
-}
 
 /* Headings */
 h1, h2, h3 {
@@ -48,16 +36,6 @@ a:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
-/* Sections */
-section {
-  margin-bottom: 2rem;
-}
-
-/* Icons (optional) */
-.icon {
-  vertical-align: middle;
-  margin-right: 0.3rem;
-}
 </style>
 
 # Kwesi Boahene
